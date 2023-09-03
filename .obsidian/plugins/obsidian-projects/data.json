@@ -1,0 +1,172 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "프로젝트 관리",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 234
+              },
+              "name": {
+                "hide": false
+              },
+              "author": {
+                "width": 120
+              },
+              "priority": {
+                "width": 127
+              },
+              "due": {
+                "width": 132
+              },
+              "published": {
+                "width": 140
+              },
+              "sponsor": {
+                "width": 124
+              },
+              "status": {
+                "width": 118
+              },
+              "topic": {
+                "width": 114
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "21343ef2-318a-4b59-99ad-298e84a0a056",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "10ebcbd3-4998-4138-b166-b097381a2a60",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6ad884fa-7b8a-4edd-a048-55547c6ca58f",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "decb585a-3f6d-43e2-96c2-bde8120ba921",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "69d51e3a-e6f9-4aec-be23-9a92ddd3e89f",
+      "name": "프로젝트 관리"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e84c458e-8acc-4bc3-87c2-6f3d88a74ed5",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "1d7cfdf5-4b59-4391-b660-b30612181806",
+      "name": "테스트 프로젝트"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [
+      {
+        "project": "69d51e3a-e6f9-4aec-be23-9a92ddd3e89f"
+      },
+      {
+        "project": "69d51e3a-e6f9-4aec-be23-9a92ddd3e89f",
+        "view": "21343ef2-318a-4b59-99ad-298e84a0a056"
+      },
+      {
+        "project": "69d51e3a-e6f9-4aec-be23-9a92ddd3e89f",
+        "view": "10ebcbd3-4998-4138-b166-b097381a2a60"
+      },
+      {
+        "project": "69d51e3a-e6f9-4aec-be23-9a92ddd3e89f",
+        "view": "6ad884fa-7b8a-4edd-a048-55547c6ca58f"
+      }
+    ],
+    "linkBehavior": "open-editor"
+  }
+}
