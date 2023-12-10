@@ -147,6 +147,16 @@
                 "file": "Brilliant 시작.md"
               }
             }
+          },
+          {
+            "id": "a11e9462e83ecaf9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
